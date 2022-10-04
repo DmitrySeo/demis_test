@@ -41,7 +41,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . "/tpl/header.php";
             <thead>
             <tr>
                 <th scope="col">Имя</th>
-                <th scope="col">Адресс</th>
+                <th scope="col">Адрес</th>
                 <th scope="col">Телефон</th>
                 <th scope="col">Email</th>
             </tr>
