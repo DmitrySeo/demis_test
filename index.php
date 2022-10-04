@@ -1,6 +1,6 @@
 <?php
 
-$title = 'Новости';
+$title = 'Главная страница';
 
 include_once $_SERVER['DOCUMENT_ROOT'] . "/tpl/header.php";
 

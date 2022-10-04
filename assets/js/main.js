@@ -54,8 +54,6 @@ $(document).ready(function () {
                     $('#user_email').val('')
                     $('.success').html('Данные добавлены').delay(2000).hide(0);
                     renderBlock()
-                } else if (result == 'senderror') {
-
                 }
             }
         })
