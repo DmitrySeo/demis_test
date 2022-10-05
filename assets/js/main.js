@@ -35,7 +35,7 @@ $(document).ready(function () {
                     return this.value === "";
                 });
                 if (empty.length) {
-                    $('.errors').html('Зполните все поля')
+                    $('.errors').html('Заполните все поля')
                     for (let i = 0; i < empty.length; i++) {
                         $('#'+empty[i].id).addClass("red");
                     }
